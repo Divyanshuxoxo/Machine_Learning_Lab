@@ -61,5 +61,5 @@ This repository contains Jupyter notebooks for various foundational machine lear
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Harshitamahant/Machine_Learning_Lab.git
+   git clone https://github.com/Divyanshuxoxo/Machine_Learning_Lab.git
    cd Machine_Learning_Lab
