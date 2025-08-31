@@ -45,6 +45,27 @@ This repository contains Jupyter notebooks for various foundational machine lear
   - Model training and prediction on test data
   - Evaluation using a **confusion matrix**
   - Confusion matrix visualization with `matplotlib`
+ 
+  ### 6. `Decision_tree_ML_06.ipynb`  
+- Implements **Decision Tree Classification** using Scikit-learn.  
+- Demonstrates splitting rules, Gini index, and entropy.  
+- Visualizes the **decision tree structure** for better understanding.  
+- Includes prediction and accuracy evaluation on a sample dataset.  
+
+### 7. `Naive_Bayes_07_ML.ipynb`  
+- Implements **Naive Bayes Classification**.  
+- Covers:  
+  - **Gaussian Naive Bayes** for continuous features  
+  - Application on a small dataset for classification tasks  
+- Demonstrates training, prediction, and evaluation.  
+
+### 8. `Random_forest_08_ML.ipynb`  
+- Implements **Random Forest Algorithm** for classification.  
+- Demonstrates:  
+  - Ensemble learning approach  
+  - Feature importance extraction  
+- Evaluates model performance using accuracy and confusion matrix.  
+
 
 ---
 
